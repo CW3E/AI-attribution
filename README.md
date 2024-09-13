@@ -18,6 +18,9 @@ This repository contains the material and guidelines to reproduce the results pr
 
 ## References
 [1] Baño-Medina, J., Sengupta, A., Michaelis, A., Delle Monache, L., Kalansky, J., Watson-Parris, D. (2024). Data from: Harnessing AI data-driven global weather models for climate attribution: An analysis of the 2017 Oroville Dam extreme atmospheric river. UC San Diego Library Digital Collections. Dataset. https://doi.org/10.6075/J09W0FTB
+
 [2] Lam, R., Sanchez-Gonzalez, A., Willson, M., Wirnsberger, P., Fortunato, M., Alet, F., ... & Battaglia, P. (2023). Learning skillful medium-range global weather forecasting. Science, 382(6677), 1416-1421.
+
 [3] Bi, K., Xie, L., Zhang, H., Chen, X., Gu, X., & Tian, Q. (2023). Accurate medium-range global weather forecasting with 3D neural networks. Nature, 619(7970), 533-538.
+
 [4] Bonev, B., Kurth, T., Hundt, C., Pathak, J., Baust, M., Kashinath, K., & Anandkumar, A. (2023, July). Spherical fourier neural operators: Learning stable dynamics on the sphere. In International conference on machine learning (pp. 2806-2823). PMLR.
