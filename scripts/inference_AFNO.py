@@ -66,8 +66,8 @@ model=model.to(device)
 # Return mean and std for standardization
 period='1979-2015'
 # Mean and standard deviation are available at: https://doi.org/10.6075/J09W0FTB
-data_mean, data_std=load_statistics(path_mean='./data/stats/mean-1979-2022.nc',
-                                    path_std='./data/stats/std-1979-2022.nc',
+data_mean, data_std=load_statistics(path_mean='./data/stats/mean-1979-2015.nc',
+                                    path_std='./data/stats/std-1979-2015.nc',
                                     vars=afno_params['vars'])
 ##########################################
 # Loop over initial condition type
